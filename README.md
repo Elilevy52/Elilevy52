@@ -27,7 +27,7 @@
 **Tools, Platforms & DevOps**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,docker,bash,git,gradle,postman" />
+    <img src="https://skillicons.dev/icons?i=linux,docker,bash,git,gradle,postman,expo" />
   </a>
 </p>
 
