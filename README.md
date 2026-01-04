@@ -34,9 +34,8 @@
 **Embedded, IoT & Hardware**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino" />
+    <img src="https://skillicons.dev/icons?i=arduino,espressif" />
   </a>
-  <img src="https://www.circuitstate.com/wp-content/uploads/2022/08/Espressif-ESP32-Icon-01.png" width="48" height="48" style="border-radius: 10px;" />
 </p>
 
 ---
