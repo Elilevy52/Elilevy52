@@ -2,8 +2,8 @@
 
 <p align="center">
   💻 **NOC Engineer @ NGsoft** <br>
-  🎓 B.Sc. Student in Software Engineering @ Afeka Academic College of Engineering <br>
-  🚀 Junior Software Engineer | Fullstack · Mobile · IoT
+  🎓 **B.Sc. Student in Software Engineering** @ Afeka Academic College of Engineering <br>
+  🚀 **Junior Software Engineer** | Fullstack · Mobile · IoT
 </p>
 
 ---
@@ -34,7 +34,7 @@
 **Embedded, IoT & Hardware**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=arduino" />
   </a>
 </p>
 
@@ -43,7 +43,7 @@
 ### What I'm Currently Up To
 
 * 🛠️ Working as a **NOC Engineer at NGsoft**, monitoring and maintaining network operations.
-* 🔍 **Looking for my first full-time Software Engineering / DevOps role.**
+* 🔍 Looking for my first full-time **Software Engineering / DevOps** role.
 * 📱 Developing mobile applications using **React Native** and **Expo Go**.
 * ⚙️ Experimenting with **Backend services** using Spring Boot and MySQL.
 
