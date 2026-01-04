@@ -1,7 +1,7 @@
 # Hi 👋, I'm Eli Levy
 
 <p align="center">
-  🎓 B.Sc. Student in Software Engineering @ Afeka Academic College of Engineering in Tel-Aviv <br>
+  🎓 B.Sc. Student in Software Engineering @ Afeka Academic College of Engineering <br>
   💻 Junior Software Engineer | Fullstack · Mobile · IoT <br>
   🚀 Passionate about building scalable applications and smart IoT solutions
 </p>
@@ -20,7 +20,7 @@
 **Tools, Platforms & DevOps**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,docker,bash,git" />
+    <img src="https://skillicons.dev/icons?i=linux,docker,bash,git,pnpm" />
   </a>
 </p>
 
@@ -34,7 +34,7 @@
 **Embedded, IoT & Hardware**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino" />
+    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
   </a>
 </p>
 
@@ -65,5 +65,5 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Elilevy52&show_icons=true&theme=vision-friendly-dark" alt="Eli's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Elilevy52&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="Eli's GitHub Stats" />
 </p>
