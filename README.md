@@ -20,14 +20,14 @@
 **IDEs & Editors**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,webstorm,pycharm,eclipse" />
+    <img src="https://skillicons.dev/icons?i=idea,vscode,webstorm,pycharm,eclipse" />
   </a>
 </p>
 
 **Tools, Platforms & DevOps**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,docker,bash,git,gradle" />
+    <img src="https://skillicons.dev/icons?i=linux,docker,bash,git,gradle,postman" />
   </a>
 </p>
 
@@ -52,7 +52,7 @@
 * 🛠️ Working as a <b>NOC Engineer at NGsoft</b>, monitoring and maintaining network operations.
 * 🔍 Looking for my first full-time <b>Software Engineering / DevOps</b> role.
 * 📱 Developing mobile applications using <b>React Native</b> and <b>Expo Go</b>.
-* ⚙️ Experimenting with <b>Backend services</b> using Spring Boot and Python.
+* ⚙️ Experimenting with <b>Backend services</b> using Spring Boot, Python and Postman.
 
 ---
 
