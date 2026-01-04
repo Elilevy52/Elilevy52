@@ -60,10 +60,3 @@
   </a>
 </p>
 
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Elilevy52&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="Eli's GitHub Stats" />
-</p>
