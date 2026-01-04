@@ -10,34 +10,32 @@
 
 ### My Skill Set
 
-#### Programming Languages & Frameworks
+**Programming Languages & Frameworks**
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,c,react,spring" />
+  </a>
 </p>
 
-#### Tools, Platforms & DevOps
+**Tools, Platforms & DevOps**
 <p align="left">
-  <img src="https://img.shields.io/badge/Linux_Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,docker,bash,git" />
+  </a>
 </p>
 
-#### Databases & Cloud
+**Databases & Cloud**
 <p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,firebase,supabase" />
+  </a>
 </p>
 
-#### Embedded, IoT & Hardware
+**Embedded, IoT & Hardware**
 <p align="left">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino" />
+  </a>
 </p>
 
 ---
@@ -67,5 +65,5 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elilevy52&layout=compact&theme=vision-friendly-dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Elilevy52&show_icons=true&theme=vision-friendly-dark" alt="Eli's GitHub Stats" />
 </p>
