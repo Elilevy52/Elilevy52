@@ -1,9 +1,9 @@
 # Hi 👋, I'm Eli Levy
 
 <p align="center">
-  💻 **NOC Engineer @ NGsoft** <br>
-  🎓 **B.Sc. Student in Software Engineering** @ Afeka Academic College of Engineering <br>
-  🚀 **Junior Software Engineer** | Fullstack · Mobile · IoT
+  💻 <b>NOC Engineer @ NGsoft</b> <br>
+  🎓 <b>B.Sc. Student in Software Engineering</b> @ Afeka Academic College of Engineering <br>
+  🚀 <b>Junior Software Engineer</b> | Fullstack · Mobile · IoT
 </p>
 
 ---
@@ -42,10 +42,10 @@
 
 ### What I'm Currently Up To
 
-* 🛠️ Working as a **NOC Engineer at NGsoft**, monitoring and maintaining network operations.
-* 🔍 Looking for my first full-time **Software Engineering / DevOps** role.
-* 📱 Developing mobile applications using **React Native** and **Expo Go**.
-* ⚙️ Experimenting with **Backend services** using Spring Boot and MySQL.
+* 🛠️ Working as a <b>NOC Engineer at NGsoft</b>, monitoring and maintaining network operations.
+* 🔍 Looking for my first full-time <b>Software Engineering / DevOps</b> role.
+* 📱 Developing mobile applications using <b>React Native</b> and <b>Expo Go</b>.
+* ⚙️ Experimenting with <b>Backend services</b> using Spring Boot and MySQL.
 
 ---
 
