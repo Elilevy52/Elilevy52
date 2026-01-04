@@ -1,4 +1,4 @@
-# Hi 👋, I'm Eli Levy
+<h1 align="center">Hi 👋, I'm Eli Levy</h1>
 
 <p align="center">
   💻 <b>NOC Engineer @ NGsoft</b> <br>
@@ -34,8 +34,9 @@
 **Embedded, IoT & Hardware**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,espressif" />
+    <img src="https://skillicons.dev/icons?i=arduino" />
   </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" width="40" height="40" title="ESP32/Embedded" style="background-color: #1a1a1a; padding: 5px; border-radius: 10px;" />
 </p>
 
 ---
