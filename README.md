@@ -34,9 +34,8 @@
 **Embedded, IoT & Hardware**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino" />
+    <img src="https://skillicons.dev/icons?i=arduino,esp32" />
   </a>
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" height="40" />
 </p>
 
 ---
